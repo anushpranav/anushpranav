@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushpranav&label=Profile%20views&color=0e75b6&style=flat" alt="anushpranav" /> </p>
 
-- 🌱 I’m currently learning **M.Sc. Data Science**
+- 🌱 I’m currently studying **M.Sc. Data Science**
 
 - 📫 How to reach me **anushpranav22@gmail.com**
 
