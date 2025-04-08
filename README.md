@@ -4,9 +4,9 @@
 
 - 📚 I’m currently studying **M.Sc. Data Science**
 
-- 📫 How to reach me **anushpranav22@gmail.com**
+- 📫 How to reach me: **anushpranav22@gmail.com**
 
-- ⚡ Fun fact **I was going to tell you a Python joke... But it got deprecated. 🤣**
+- ⚡ Fun fact: **I was going to tell you a Python joke... But it got deprecated. 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
